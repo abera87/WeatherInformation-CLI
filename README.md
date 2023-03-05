@@ -17,6 +17,7 @@
  .\WeatherInfoCli.exe -h
  ```
  **Output:**
+ 
  ![help output](Output-Img/help.jpg)
 
 to run this exe you need to goto WeatherInfoCli.exe folder (bin folder) and opne a command prompt
@@ -26,6 +27,7 @@ show list of cities:
 .\WeatherInfoCli.exe ShowCities
 ```
 **Output:**
+
 ![Show Cities](Output-Img/ShowCityies.jpg)
 
 show weather of any cities which displayed using above command
@@ -33,4 +35,5 @@ show weather of any cities which displayed using above command
 .\WeatherInfoCli.exe ShowWeather -c pune
 ```
 **Output:**
+
 ![Show Weather](Output-Img/ShowWeather.jpg)
