@@ -22,7 +22,7 @@
 to run this exe you need to goto WeatherInfoCli.exe folder (bin folder) and opne a command prompt
 
 show list of cities:
-```console
+```sh
 .\WeatherInfoCli.exe ShowCities
 ```
 **Output:**
